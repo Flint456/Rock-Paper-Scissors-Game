@@ -1,0 +1,26 @@
+- player starts game
+
+-player chooses either Rock, Paper or Scissors
+
+-At the same time the player makes choice The computer randomly chooses either Rock, Paper or Scissors
+
+
+if Player Rock & computer Rock 
+OR player paper and computer paper 
+OR player scissors and computer scissors THEN - TIE
+
+If player Rock & computer scissors  
+OR if player player paper & computer Rock 
+OR player scissors & computer paper then - WIN
+
+if player Rock & computer paper 
+OR player paper & computer scissors 
+OR player Scissors & computer Rock then - LOSE
+
+if tie computer outputs "It's a tie! Play again"
+
+if win computer outputs "You Win,(if Rock>Scissors the (Rock beats scissors), if paper > Rock then (paper beats Rock!) if Scissors > Paper then (Scissors beats paper)"
+
+I will need to create a seperate funtion that anounces why you win lose or draw. 
+
+ 
